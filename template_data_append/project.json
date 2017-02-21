@@ -1,1 +1,8 @@
-{"guid":"template_data_append","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_data_append.git"}}
+{
+    "guid":"template_data_append",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_data_append.git"
+    }
+}
